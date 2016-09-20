@@ -14,7 +14,7 @@ Esperamos contar con ustedes y esten al pendiente, estaremos actualizando la inf
 
 ====
 
-#### Intro/Presentacion
+### Intro/Presentacion
 
 Daremos un breve momento para presentar al equipo a cargo de la comunidad asi como platicar un poco entre nosotros (el famoso networking) sobre quienes somos y que hacemos.
 
@@ -23,4 +23,16 @@ Daremos un breve momento para presentar al equipo a cargo de la comunidad asi co
 Contenido de su presentación:
 
 * [LINK](https://docs.google.com/presentation/d/1o_JNCY_XH_GI5pundxjjOuyXj2tr_1IUizmGGdW4mi8)
-* [STATIC]()
+* [STATIC](https://github.com/GDLActivity/GDL-Meetup/blob/session-1/Sept-7-16/Special/Intro-7-Sept-16.pdf)
+
+====
+
+## Activity
+
+### Android Clean Architecture
+
+Una platica sobre esta famosa arquitectura del tio bob, aplicada en Android, como separar los componentes de tal manera que puedan escalar facilmente.
+
+[David Ojeda](https://github.com/davidojedalopez/) -> Handy
+
+> De día, desarrollador autodidacta en web y Android, con algunos deseos de conquista mundial; de noche, jugador aficionado de Overwatch. 
