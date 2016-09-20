@@ -20,6 +20,8 @@ Daremos un breve momento para presentar al equipo a cargo de la comunidad asi co
 
 [Sinuhé Jaime Valencia](http://github.com/sierisimo) -> EPAM
 
+> He's a total nerd
+
 Contenido de su presentación:
 
 * [LINK](https://docs.google.com/presentation/d/1o_JNCY_XH_GI5pundxjjOuyXj2tr_1IUizmGGdW4mi8)
@@ -35,4 +37,4 @@ Una platica sobre esta famosa arquitectura del tio bob, aplicada en Android, com
 
 [David Ojeda](https://github.com/davidojedalopez/) -> Handy
 
-> De día, desarrollador autodidacta en web y Android, con algunos deseos de conquista mundial; de noche, jugador aficionado de Overwatch. 
+> De día, desarrollador autodidacta en web y Android, con algunos deseos de conquista mundial; de noche, jugador aficionado de Overwatch.
