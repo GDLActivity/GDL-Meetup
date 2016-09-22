@@ -1,3 +1,6 @@
 [submodule "Sept-7-16/Activity/android-clean-arch-example"]
 	path = Sept-7-16/Activity/android-clean-arch-example
 	url = git@github.com:davidojedalopez/android-clean-arch-example.git
+[submodule "Sept-7-16/Service/Q_n_A"]
+	path = Sept-7-16/Service/Q_n_A
+	url = https://github.com/villasrm/Q_n_A
