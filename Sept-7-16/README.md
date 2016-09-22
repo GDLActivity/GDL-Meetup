@@ -82,7 +82,7 @@ Contenido:
 
 Se analizara la forma de desarrollar aplicaciones con información haciendo uso de Firebase y las nuevas herramientas que Google ha desarrollado para el mismo, haciendo uso de las mejores practicas de arquitectura.
 
-[Miguel Villaseñor]() -> Wizeline
+[Miguel Villaseñor](https://github.com/villasrm/Q_n_A) -> Wizeline
 
 Contenido:
 
